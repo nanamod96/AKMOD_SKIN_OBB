@@ -1,0 +1,4 @@
+cd $HOME/AKMOD_SKIN_OBB
+chmod +x main
+chmod +x setup
+./setup
